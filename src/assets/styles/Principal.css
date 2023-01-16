@@ -1,0 +1,78 @@
+.principal01{
+    position: relative;
+    margin-top: 80px;
+}
+
+.container01{
+    display: flex;
+    flex-direction: row;
+    margin: 3px auto;
+    padding: 5px;
+    font-family:  'Open Sans', sans-serif;
+    justify-content: space-between;
+}
+
+.container02{
+    display: flex;
+    margin: 3px auto;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container03{
+    display: flex;
+    margin: 3px auto;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-self:  center;
+}
+
+#name-enterprise{
+    /* background-color: #444444; */
+    width: fit-content;
+    border-radius: 5px;
+    padding: 2px;
+    color: #c8cdd0;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+    align-items: center;
+    align-self: center;
+}
+
+#img-logo{
+    background-color: brown;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+#bidding{
+    background-color: #444444;
+    width: auto;
+    border-radius: 5px;
+    padding: 2px;
+    color: #c8cdd0;
+}
+
+#img-bidding{
+    display: flex;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#categories{
+    display: flex;
+    flex-direction: column;
+    margin: 3px auto;
+}
+.product-category{
+    background-color: #c8cdd0;
+    border-radius: 15px;
+    border: solid 2px blueviolet;
+    margin: 50px auto;
+}

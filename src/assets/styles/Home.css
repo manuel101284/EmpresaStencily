@@ -1,0 +1,15 @@
+.home-01{
+    display: flex;
+}
+
+#logoStencily{
+    display: flex;
+    position: relative;
+    margin: 200px auto;
+    width: 80%;
+    height: 80%;
+    border-radius: 40px;
+    justify-content: center;
+    justify-items: center;
+    border: solid #4b1c71 2px;
+}

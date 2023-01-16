@@ -1,0 +1,27 @@
+#icon-home{
+    display: flex;
+    border-radius: 20px;
+    padding: 5px;
+    position: fixed;
+    top: 3px;
+    bottom: auto;
+    right: auto;
+    left: 3px;
+}
+
+#icon-categories{
+    display: flex;
+    border-radius: 20px;
+    padding: 5px;
+    position: fixed;
+    top: 3px;
+    bottom: auto;
+    right: 3px;
+    left: auto;
+}
+
+.Button{
+    background-color: #e0b0ff;
+    border-radius: 10px;
+    border: solid #4b1c71 2px;
+}

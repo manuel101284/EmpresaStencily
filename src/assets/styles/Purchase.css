@@ -1,0 +1,63 @@
+.pin-description{
+    display: flex;
+    background-color: #c8cdd0;
+}
+
+.section01,.section02,.section03{
+    display: flex;
+}
+
+#name-product{
+    position: relative;
+    top: 5px;
+    bottom: auto;
+    right: auto;
+    left: 5px;
+    color: #000000;
+    font-weight: 500;
+}
+
+#price-product {
+    position: relative;
+    top: 5px;
+    bottom: auto;
+    right: 5px;
+    left: auto;
+    color: #000000;
+    font-weight: 500;
+}
+
+#code-product{
+    position: relative;
+    top: 5px;
+    bottom: auto;
+    right: auto;
+    left: 5px;
+    color: #000000;
+    font-weight: 300;
+}
+
+#dimensions-product{
+    position: relative;
+    top: 5px;
+    bottom: auto;
+    right: 5px;
+    left: auto;
+    color: #000000;
+    font-weight: 300;
+}
+
+#description-product{
+    position: relative;
+    top: 10px;
+    color: #000000;
+    font-weight: 200;
+}
+
+#text-product{
+    position: relative;
+    top: 5px;
+    color: #000000;
+    font-weight: 100;
+}
+

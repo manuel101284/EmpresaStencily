@@ -1,0 +1,77 @@
+.category01 {
+    position: relative;
+    margin-top: 80px;
+}
+
+.container01-01{
+    display: flex;
+    flex-direction: row;
+    margin: 3px auto;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: space-between;
+}
+
+.container02-02{
+    display: flex;
+    margin: 3px auto;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container03-03{
+    display: flex;
+    margin: 3px auto;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+
+#name-enterprise1{
+    /* background-color: #444444; */
+    width: fit-content;
+    border-radius: 5px;
+    padding: 2px;
+    color: #c8cdd0;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+    align-items: center;
+    align-self: center;
+}
+
+#img-logo1{
+    background-color: brown;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+#bidding1{
+    background-color: #444444;
+    width: auto;
+    border-radius: 5px;
+    padding: 2px;
+    color: #c8cdd0;
+}
+
+#img-bidding1{
+    display: flex;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#products{
+    display: flex;
+    flex-direction: column;
+    margin: 3px auto;
+}
+
+.product{
+    border-radius: 20px;
+    margin: 50px auto;
+}
